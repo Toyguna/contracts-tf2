@@ -15,4 +15,4 @@ Current features:
 - TF2HeadshotKill task
 - TF2KillBySpell
 
-Currently wip, expect a full release sooner
+Currently wip, expect a full release soon
